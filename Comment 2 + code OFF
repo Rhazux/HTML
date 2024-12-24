@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vypnutí kódu</title>
+</head>
+<body>
+    <h1>Ukázka vypnutí kódu</h1>
+    <!-- <p>Tento odstavec je dočasně vypnutý a nebude vidět na stránce.</p> -->
+    <p>Tento odstavec je viditelný.</p>
+</body>
+</html>
