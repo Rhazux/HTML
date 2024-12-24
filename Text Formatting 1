@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Základní formátování textu</title>
+</head>
+<body>
+    <h1>Formátování textu</h1>
+    <p>Toto je <b>tučný</b> text.</p>
+    <p>Toto je <i>kurzíva</i>.</p>
+    <p>Toto je <u>podtržený</u> text.</p>
+    <p>Toto je <s>přeškrtnutý</s> text.</p>
+</body>
+</html>
