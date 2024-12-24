@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nadpisy s CSS</title>
+    <style>
+        h1 {
+            color: blue;
+        }
+        h2 {
+            font-size: 1.5em;
+        }
+        h3 {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Toto je modrý nadpis</h1>
+    <h2>Toto je větší nadpis</h2>
+    <h3>Toto je podtržený nadpis</h3>
+</body>
+</html>
