@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Odkaz v nové záložce</title>
+</head>
+<body>
+    <h1>Odkaz v nové záložce</h1>
+    <p>Klikněte na <a href="https://www.google.com" target="_blank">Google</a>, otevře se v nové záložce.</p>
+</body>
+</html>
