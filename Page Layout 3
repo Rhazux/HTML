@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flexibilní rozložení</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-color: #444;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        .main {
+            display: flex;
+        }
+        .sidebar {
+            width: 250px;
+            background-color: #ddd;
+            padding: 20px;
+        }
+        .content {
+            flex-grow: 1;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        .footer {
+            background-color: #444;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Flexibilní rozložení</h1>
+    </div>
+    <div class="main">
+        <div class="sidebar">
+            <h2>Postranní panel</h2>
+            <p>Text v postranním panelu...</p>
+        </div>
+        <div class="content">
+            <h2>Hlavní obsah</h2>
+            <p>Text v hlavní části stránky...</p>
+        </div>
+    </div>
+    <div class="footer">
+        <p>© 2024 Tvoje stránka</p>
+    </div>
+</body>
+</html>
