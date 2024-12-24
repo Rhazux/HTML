@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stylování rámečku</title>
+</head>
+<body>
+    <div style="border: 2px solid black; border-radius: 10px; padding: 20px;">
+        Tento box má černý rámeček a zaoblené rohy.
+    </div>
+</body>
+</html>
