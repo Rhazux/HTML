@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rozbalovací menu s výchozí hodnotou</title>
+</head>
+<body>
+    <h1>Rozbalovací seznam s výchozí hodnotou</h1>
+    <form action="/submit" method="post">
+        <label for="language">Vyberte jazyk:</label>
+        <select id="language" name="language">
+            <option value="cz" selected>Čeština</option>
+            <option value="en">Angličtina</option>
+            <option value="de">Němčina</option>
+        </select><br><br>
+
+        <input type="submit" value="Odeslat">
+    </form>
+</body>
+</html>
