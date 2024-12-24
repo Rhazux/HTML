@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Základní atributy</title>
+</head>
+<body>
+    <h1>Atributy v HTML</h1>
+    <p>Odkaz s atributem `href`:</p>
+    <a href="https://www.example.com" target="_blank">Navštivte Example</a>
+
+    <p>Obrázek s atributy `src` a `alt`:</p>
+    <img src="https://via.placeholder.com/150" alt="Ukázkový obrázek" />
+</body>
+</html>
