@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sloučení buněk</title>
+    <style>
+        table {
+            width: 50%;
+            border-collapse: collapse;
+            margin: 25px 0;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h2>Tabulka se sloučenými buňkami</h2>
+    <table>
+        <tr>
+            <th colspan="2">Osobní informace</th>
+        </tr>
+        <tr>
+            <td rowspan="2">Jméno</td>
+            <td>Jan</td>
+        </tr>
+        <tr>
+            <td>Eva</td>
+        </tr>
+        <tr>
+            <td>Věk</td>
+            <td>25</td>
+        </tr>
+    </table>
+</body>
+</html>
