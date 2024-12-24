@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nadpisy</title>
+</head>
+<body>
+    <h1>Hlavní nadpis</h1>
+    <h2>Podnadpis</h2>
+    <h3>Menší nadpis</h3>
+    <h4>Ještě menší nadpis</h4>
+    <h5>Téměř nejmenší nadpis</h5>
+    <h6>Nejmenší nadpis</h6>
+</body>
+</html>
