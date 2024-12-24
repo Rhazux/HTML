@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zdůraznění textu</title>
+</head>
+<body>
+    <h1>Zdůraznění a citace</h1>
+    <p>Toto je <em>zdůrazněný text</em>, který má významový důraz.</p>
+    <p>Toto je <strong>silné zdůraznění</strong>, které je důležité.</p>
+    <p>Toto je citace: <q>HTML je základ webu.</q></p>
+</body>
+</html>
