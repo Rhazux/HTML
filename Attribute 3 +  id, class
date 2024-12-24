@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atributy ID a Class</title>
+    <style>
+        #unikatni {
+            color: red;
+        }
+        .spolecna {
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="unikatni">Toto je nadpis s unikátním ID</h1>
+    <p class="spolecna">Tento odstavec má třídu "spolecna".</p>
+    <p class="spolecna">Další odstavec se stejnou třídou.</p>
+</body>
+</html>
