@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uspořádaný seznam</title>
+</head>
+<body>
+    <h1>Uspořádaný seznam</h1>
+    <ol>
+        <li>První krok</li>
+        <li>Druhý krok</li>
+        <li>Třetí krok</li>
+    </ol>
+</body>
+</html>
