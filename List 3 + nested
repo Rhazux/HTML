@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vnořený seznam</title>
+</head>
+<body>
+    <h1>Vnořený seznam</h1>
+    <ul>
+        <li>První položka
+            <ul>
+                <li>Podpoložka 1</li>
+                <li>Podpoložka 2</li>
+            </ul>
+        </li>
+        <li>Druhá položka</li>
+        <li>Třetí položka</li>
+    </ul>
+</body>
+</html>
