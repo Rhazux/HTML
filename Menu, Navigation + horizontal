@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stylované menu</title>
+    <style>
+        nav {
+            background-color: #333;
+            overflow: hidden;
+        }
+        nav a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            background-color: #575757;
+        }
+    </style>
+</head>
+<body>
+    <h1>Stylované menu</h1>
+    <nav>
+        <a href="#home">Domů</a>
+        <a href="#about">O nás</a>
+        <a href="#services">Služby</a>
+        <a href="#contact">Kontakt</a>
+    </nav>
+</body>
+</html>
