@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stylování textu</title>
+</head>
+<body>
+    <h1 style="color: blue;">Tento nadpis je modrý</h1>
+    <p style="color: red;">Tento text je červený.</p>
+</body>
