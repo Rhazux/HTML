@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stylování tabulky</title>
+    <style>
+        table {
+            width: 80%;
+            border-collapse: collapse;
+            margin: 20px;
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid black;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+        td {
+            background-color: #f9f9f9;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h2>Stylovaná tabulka</h2>
+    <table>
+        <tr>
+            <th>Jméno</th>
+            <th>Věk</th>
+            <th>Adresa</th>
+        </tr>
+        <tr>
+            <td>Jan</td>
+            <td>25</td>
+            <td>Praha</td>
+        </tr>
+        <tr>
+            <td>Eva</td>
+            <td>30</td>
+            <td>Brno</td>
+        </tr>
+        <tr>
+            <td>Petr</td>
+            <td>22</td>
+            <td>Ostrava</td>
+        </tr>
+    </table>
+</body>
+</html>
