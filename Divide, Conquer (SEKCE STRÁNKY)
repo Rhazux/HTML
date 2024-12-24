@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Divide and Conquer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .header, .footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        .main-content {
+            display: flex;
+            justify-content: space-between;
+            padding: 20px;
+        }
+        .sidebar, .article {
+            width: 48%;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Moje Webová Stránka</h1>
+    </div>
+    <div class="main-content">
+        <div class="sidebar">
+            <h2>Postranní Panel</h2>
+            <p>Informace v postranním panelu.</p>
+        </div>
+        <div class="article">
+            <h2>Hlavní Článek</h2>
+            <p>Toto je hlavní obsah stránky.</p>
+        </div>
+    </div>
+    <div class="footer">
+        <p>© 2024 Moje Webová Stránka</p>
+    </div>
+</body>
+</html>
