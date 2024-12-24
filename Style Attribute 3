@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stylování velikosti písma a okrajů</title>
+</head>
+<body>
+    <h1 style="font-size: 36px; margin-bottom: 20px;">Velký nadpis s okrajem</h1>
+    <p style="font-size: 18px; margin-top: 10px;">Tento text má nastavenou velikost písma a horní okraj.</p>
+</body>
+</html>
