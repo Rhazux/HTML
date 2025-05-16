@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Článek</title>
+    <title>Article</title>
 </head>
 <body>
-    <h1>Historie internetu</h1>
-    <h2>Počátky internetu</h2>
-    <p>Internet vznikl jako projekt ARPANET v 60. letech.</p>
-    <h2>Moderní internet</h2>
-    <p>Dnes je internet využíván miliardami lidí po celém světě.</p>
+    <h1>History of the Internet</h1>
+    <h2>Origins of the Internet</h2>
+    <p>The Internet originated as the ARPANET project in the 1960s.</p>
+    <h2>Modern Internet</h2>
+    <p>Today, the Internet is used by billions of people around the world.</p>
 </body>
 </html>
