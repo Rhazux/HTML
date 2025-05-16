@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Stylování rámečku</title>
+    <title>Border Styling</title>
 </head>
 <body>
     <div style="border: 2px solid black; border-radius: 10px; padding: 20px;">
-        Tento box má černý rámeček a zaoblené rohy.
+        This box has a black border and rounded corners.
     </div>
 </body>
 </html>
