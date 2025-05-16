@@ -4,6 +4,7 @@ Welcome to the HTML Examples Collection. This repository contains a variety of H
 
 ## Table of Contents
 
+- [Basic Attributes](#basic-attributes)
 - [Vertical Menu](#vertical-menu)
 - [Basic Audio](#basic-audio)
 - [Audio with Multiple Formats](#audio-with-multiple-formats)
@@ -27,6 +28,14 @@ Welcome to the HTML Examples Collection. This repository contains a variety of H
 - [Basic Video](#basic-video)
 - [Video with Multiple Formats](#video-with-multiple-formats)
 - [Video with Autoplay](#video-with-autoplay)
+
+---
+
+## Basic Attributes
+
+**File:** `basic-attributes.html`
+
+Demonstrates the use of basic HTML attributes such as `href`, `target`, `src`, and `alt`.
 
 ---
 
