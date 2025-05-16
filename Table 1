@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tabulka</title>
+    <title>Table</title>
     <style>
         table {
             width: 50%;
@@ -21,27 +21,27 @@
     </style>
 </head>
 <body>
-    <h2>Tabulka s daty</h2>
+    <h2>Data Table</h2>
     <table>
         <tr>
-            <th>Jméno</th>
-            <th>Věk</th>
-            <th>Město</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>City</th>
         </tr>
         <tr>
-            <td>Jan</td>
+            <td>John</td>
             <td>25</td>
-            <td>Praha</td>
+            <td>NewYork</td>
         </tr>
         <tr>
-            <td>Eva</td>
+            <td>Thomas</td>
             <td>30</td>
-            <td>Brno</td>
+            <td>Miami</td>
         </tr>
         <tr>
-            <td>Petr</td>
+            <td>Peter</td>
             <td>22</td>
-            <td>Ostrava</td>
+            <td>Chicago</td>
         </tr>
     </table>
 </body>
