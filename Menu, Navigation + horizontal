@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Stylované menu</title>
+    <title>Styled Menu</title>
     <style>
         nav {
             background-color: #333;
@@ -23,12 +23,12 @@
     </style>
 </head>
 <body>
-    <h1>Stylované menu</h1>
+    <h1>Styled Menu</h1>
     <nav>
-        <a href="#home">Domů</a>
-        <a href="#about">O nás</a>
-        <a href="#services">Služby</a>
-        <a href="#contact">Kontakt</a>
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
     </nav>
 </body>
 </html>
