@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Základní rozložení</title>
+    <title>Basic Layout</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -40,20 +40,20 @@
 </head>
 <body>
     <div class="header">
-        <h1>Hlavní nadpis stránky</h1>
+        <h1>Main Page Title</h1>
     </div>
     <div class="main">
         <div class="content">
-            <h2>Obsah</h2>
-            <p>Text v hlavní části stránky...</p>
+            <h2>Content</h2>
+            <p>Text in the main part of the page...</p>
         </div>
         <div class="sidebar">
-            <h2>Postranní panel</h2>
-            <p>Text v postranním panelu...</p>
+            <h2>Sidebar</h2>
+            <p>Text in the sidebar...</p>
         </div>
     </div>
     <div class="footer">
-        <p>© 2024 Tvoje stránka</p>
+        <p>© 2024 Your Page</p>
     </div>
 </body>
 </html>
