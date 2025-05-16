@@ -1,24 +1,24 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Formulář s výběrem</title>
+    <title>Form with Selection</title>
 </head>
 <body>
-    <h1>Formulář s výběrem</h1>
+    <h1>Form with Selection</h1>
     <form action="/submit" method="post">
-        <label for="country">Země:</label>
+        <label for="country">Country:</label>
         <select id="country" name="country">
-            <option value="cz">Česká republika</option>
-            <option value="sk">Slovensko</option>
-            <option value="us">Spojené státy</option>
+            <option value="cz">Czech Republic</option>
+            <option value="sk">Slovakia</option>
+            <option value="us">United States</option>
         </select><br><br>
 
-        <label for="message">Zpráva:</label><br>
+        <label for="message">Message:</label><br>
         <textarea id="message" name="message" rows="4" cols="50" required></textarea><br><br>
 
-        <input type="submit" value="Odeslat">
+        <input type="submit" value="Submit">
     </form>
 </body>
 </html>
