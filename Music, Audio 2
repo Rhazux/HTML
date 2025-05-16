@@ -1,17 +1,17 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Audio s více formáty</title>
+    <title>Audio with Multiple Formats</title>
 </head>
 <body>
-    <h1>Audio s více formáty</h1>
+    <h1>Audio with Multiple Formats</h1>
     <audio controls>
         <source src="audio.ogg" type="audio/ogg">
         <source src="audio.mp3" type="audio/mp3">
         <source src="audio.wav" type="audio/wav">
-        Váš prohlížeč nepodporuje tento formát audia.
+        Your browser does not support this audio format.
     </audio>
 </body>
-</html>v
+</html>
