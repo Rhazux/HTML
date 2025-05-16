@@ -1,21 +1,21 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Označení sekcí</title>
+    <title>Section Markup</title>
 </head>
 <body>
-    <!-- Začátek hlavičky -->
+    <!-- Start of header -->
     <header>
-        <h1>Hlavní nadpis</h1>
+        <h1>Main Heading</h1>
     </header>
-    <!-- Konec hlavičky -->
+    <!-- End of header -->
 
-    <!-- Začátek obsahu -->
+    <!-- Start of content -->
     <main>
-        <p>Toto je hlavní obsah stránky.</p>
+        <p>This is the main content of the page.</p>
     </main>
-    <!-- Konec obsahu -->
+    <!-- End of content -->
 </body>
 </html>
