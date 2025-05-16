@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Audio s automatickým přehráváním</title>
+    <title>Audio with Autoplay</title>
 </head>
 <body>
-    <h1>Audio s automatickým přehráváním</h1>
+    <h1>Audio with Autoplay</h1>
     <audio autoplay loop>
         <source src="audio.mp3" type="audio/mp3">
-        Váš prohlížeč nepodporuje tento formát audia.
+        Your browser does not support this audio format.
     </audio>
 </body>
 </html>
