@@ -1,19 +1,19 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Předformátovaný text a kód</title>
+    <title>Preformatted Text and Code</title>
 </head>
 <body>
-    <h1>Předformátovaný text a kód</h1>
-    <p>Toto je předformátovaný text:</p>
+    <h1>Preformatted Text and Code</h1>
+    <p>This is preformatted text:</p>
     <pre>
     Line 1
     Line 2
     Line 3
     </pre>
-    <p>Toto je ukázka kódu:</p>
-    <code>&lt;h1&gt;Toto je nadpis&lt;/h1&gt;</code>
+    <p>This is a code example:</p>
+    <code>&lt;h1&gt;This is a heading&lt;/h1&gt;</code>
 </body>
 </html>
