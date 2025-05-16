@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Základní odkaz</title>
+    <title>Basic Link</title>
 </head>
 <body>
-    <h1>Odkaz</h1>
-    <p>Navštivte <a href="https://www.example.com">example.com</a> pro více informací.</p>
+    <h1>Link</h1>
+    <p>Visit <a href="https://www.example.com">example.com</a> for more information.</p>
 </body>
 </html>
