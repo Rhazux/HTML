@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HTML Komentáře</title>
+    <title>HTML Comments</title>
 </head>
 <body>
-    <!-- Toto je komentář, který nebude vidět v prohlížeči -->
-    <h1>Hlavní nadpis</h1>
-    <!-- Komentář slouží k popisu kódu -->
-    <p>Tento text je zobrazen, ale komentář nad ním nikoliv.</p>
+    <!-- This is a comment that will not be visible in the browser -->
+    <h1>Main Heading</h1>
+    <!-- Comments are used to describe the code -->
+    <p>This text is displayed, but the comment above it is not.</p>
 </body>
 </html>
