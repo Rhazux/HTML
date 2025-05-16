@@ -1,21 +1,21 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jednoduché rozbalovací menu</title>
+    <title>Simple Dropdown Menu</title>
 </head>
 <body>
-    <h1>Rozbalovací seznam</h1>
+    <h1>Dropdown List</h1>
     <form action="/submit" method="post">
-        <label for="color">Vyberte barvu:</label>
+        <label for="color">Select a color:</label>
         <select id="color" name="color">
-            <option value="red">Červená</option>
-            <option value="green">Zelená</option>
-            <option value="blue">Modrá</option>
+            <option value="red">Red</option>
+            <option value="green">Green</option>
+            <option value="blue">Blue</option>
         </select><br><br>
 
-        <input type="submit" value="Odeslat">
+        <input type="submit" value="Submit">
     </form>
 </body>
 </html>
