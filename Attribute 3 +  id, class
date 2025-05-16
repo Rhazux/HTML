@@ -1,21 +1,21 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Atributy ID a Class</title>
+    <title>ID and Class Attributes</title>
     <style>
-        #unikatni {
+        #unique {
             color: red;
         }
-        .spolecna {
+        .common {
             font-style: italic;
         }
     </style>
 </head>
 <body>
-    <h1 id="unikatni">Toto je nadpis s unikátním ID</h1>
-    <p class="spolecna">Tento odstavec má třídu "spolecna".</p>
-    <p class="spolecna">Další odstavec se stejnou třídou.</p>
+    <h1 id="unique">This is a heading with a unique ID</h1>
+    <p class="common">This paragraph has the class "common".</p>
+    <p class="common">Another paragraph with the same class.</p>
 </body>
 </html>
