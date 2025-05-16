@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vypnutí kódu</title>
+    <title>Code Disabling</title>
 </head>
 <body>
-    <h1>Ukázka vypnutí kódu</h1>
-    <!-- <p>Tento odstavec je dočasně vypnutý a nebude vidět na stránce.</p> -->
-    <p>Tento odstavec je viditelný.</p>
+    <h1>Example of Disabling Code</h1>
+    <!-- <p>This paragraph is temporarily disabled and will not be visible on the page.</p> -->
+    <p>This paragraph is visible.</p>
 </body>
 </html>
