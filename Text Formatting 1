@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Základní formátování textu</title>
+    <title>Basic Text Formatting</title>
 </head>
 <body>
-    <h1>Formátování textu</h1>
-    <p>Toto je <b>tučný</b> text.</p>
-    <p>Toto je <i>kurzíva</i>.</p>
-    <p>Toto je <u>podtržený</u> text.</p>
-    <p>Toto je <s>přeškrtnutý</s> text.</p>
+    <h1>Text Formatting</h1>
+    <p>This is <b>bold</b> text.</p>
+    <p>This is <i>italic</i>.</p>
+    <p>This is <u>underlined</u> text.</p>
+    <p>This is <s>struck-through</s> text.</p>
 </body>
 </html>
