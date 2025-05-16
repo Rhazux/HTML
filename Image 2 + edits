@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Obrázek s rozměry</title>
+    <title>Image with Dimensions</title>
 </head>
 <body>
-    <h1>Obrázek s rozměry</h1>
-    <img src="https://via.placeholder.com/400x200" alt="Obrázek s rozměry" width="400" height="200" />
-    <p>Popis obrázku: Toto je ukázkový obrázek o šířce 400px a výšce 200px.</p>
+    <h1>Image with Dimensions</h1>
+    <img src="https://via.placeholder.com/400x200" alt="Image with Dimensions" width="400" height="200" />
+    <p>Image description: This is a sample image with a width of 400px and a height of 200px.</p>
 </body>
 </html>
