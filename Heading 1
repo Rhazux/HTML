@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nadpisy</title>
+    <title>Headings</title>
 </head>
 <body>
-    <h1>Hlavní nadpis</h1>
-    <h2>Podnadpis</h2>
-    <h3>Menší nadpis</h3>
-    <h4>Ještě menší nadpis</h4>
-    <h5>Téměř nejmenší nadpis</h5>
-    <h6>Nejmenší nadpis</h6>
+    <h1>Main Heading</h1>
+    <h2>Subheading</h2>
+    <h3>Smaller Heading</h3>
+    <h4>Even Smaller Heading</h4>
+    <h5>Almost Smallest Heading</h5>
+    <h6>Smallest Heading</h6>
 </body>
 </html>
