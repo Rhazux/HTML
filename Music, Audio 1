@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Základní audio</title>
+    <title>Basic Audio</title>
 </head>
 <body>
-    <h1>Základní audio</h1>
+    <h1>Basic Audio</h1>
     <audio controls>
         <source src="audio.mp3" type="audio/mp3">
-        Váš prohlížeč nepodporuje audio tag.
+        Your browser does not support the audio tag.
     </audio>
 </body>
 </html>
