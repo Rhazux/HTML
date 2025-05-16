@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nadpisy s CSS</title>
+    <title>Headings with CSS</title>
     <style>
         h1 {
             color: blue;
@@ -17,8 +17,8 @@
     </style>
 </head>
 <body>
-    <h1>Toto je modrý nadpis</h1>
-    <h2>Toto je větší nadpis</h2>
-    <h3>Toto je podtržený nadpis</h3>
+    <h1>This is a blue heading</h1>
+    <h2>This is a larger heading</h2>
+    <h3>This is an underlined heading</h3>
 </body>
 </html>
