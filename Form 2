@@ -1,23 +1,23 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Formulář s rádiovými tlačítky</title>
+    <title>Form with Radio Buttons</title>
 </head>
 <body>
-    <h1>Formulář s rádiovými tlačítky</h1>
+    <h1>Form with Radio Buttons</h1>
     <form action="/submit" method="post">
-        <label for="gender">Pohlaví:</label><br>
+        <label for="gender">Gender:</label><br>
         <input type="radio" id="male" name="gender" value="male">
-        <label for="male">Muž</label><br>
+        <label for="male">Male</label><br>
         <input type="radio" id="female" name="gender" value="female">
-        <label for="female">Žena</label><br><br>
+        <label for="female">Female</label><br><br>
 
-        <label for="subscribe">Chcete odebírat novinky?</label>
+        <label for="subscribe">Do you want to subscribe to news?</label>
         <input type="checkbox" id="subscribe" name="subscribe" value="yes"><br><br>
 
-        <input type="submit" value="Odeslat">
+        <input type="submit" value="Submit">
     </form>
 </body>
 </html>
