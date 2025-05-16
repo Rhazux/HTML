@@ -1,22 +1,22 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rozbalovací menu s více možnostmi</title>
+    <title>Dropdown Menu with Multiple Options</title>
 </head>
 <body>
-    <h1>Vyberte více možností</h1>
+    <h1>Select Multiple Options</h1>
     <form action="/submit" method="post">
-        <label for="fruits">Vyberte ovoce:</label>
+        <label for="fruits">Select fruits:</label>
         <select id="fruits" name="fruits" multiple>
-            <option value="apple">Jablko</option>
-            <option value="banana">Banán</option>
-            <option value="cherry">Třešně</option>
-            <option value="grape">Hrozny</option>
+            <option value="apple">Apple</option>
+            <option value="banana">Banana</option>
+            <option value="cherry">Cherry</option>
+            <option value="grape">Grape</option>
         </select><br><br>
 
-        <input type="submit" value="Odeslat">
+        <input type="submit" value="Submit">
     </form>
 </body>
 </html>
