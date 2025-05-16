@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sloučení buněk</title>
+    <title>Merged Cells</title>
     <style>
         table {
             width: 50%;
@@ -21,20 +21,20 @@
     </style>
 </head>
 <body>
-    <h2>Tabulka se sloučenými buňkami</h2>
+    <h2>Table with Merged Cells</h2>
     <table>
         <tr>
-            <th colspan="2">Osobní informace</th>
+            <th colspan="2">Personal Information</th>
         </tr>
         <tr>
-            <td rowspan="2">Jméno</td>
-            <td>Jan</td>
+            <td rowspan="2">Name</td>
+            <td>John</td>
         </tr>
         <tr>
-            <td>Eva</td>
+            <td>Peter</td>
         </tr>
         <tr>
-            <td>Věk</td>
+            <td>Age</td>
             <td>25</td>
         </tr>
     </table>
