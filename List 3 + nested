@@ -1,21 +1,21 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vnořený seznam</title>
+    <title>Nested List</title>
 </head>
 <body>
-    <h1>Vnořený seznam</h1>
+    <h1>Nested List</h1>
     <ul>
-        <li>První položka
+        <li>First item
             <ul>
-                <li>Podpoložka 1</li>
-                <li>Podpoložka 2</li>
+                <li>Sub-item 1</li>
+                <li>Sub-item 2</li>
             </ul>
         </li>
-        <li>Druhá položka</li>
-        <li>Třetí položka</li>
+        <li>Second item</li>
+        <li>Third item</li>
     </ul>
 </body>
 </html>
